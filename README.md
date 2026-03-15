@@ -4,7 +4,9 @@
 
 ---
 
-![IC](assets/logo.jpg)
+<p align="center">
+  <img src="assets/logo.jpg" width="500"/>
+</p>
 
 ---
 
@@ -60,7 +62,7 @@ df = (
 #backtest
 FA = FactorAnalyzer(base_df=df,
                     trade_date_col='datetime',
-                    symbol_col='synbol',
+                    symbol_col='symbol',
                     price_col='close',
                     factor_name='alpha_003')
 FA.run()
@@ -88,8 +90,8 @@ Ex.plot_correlations()
 
 ---
 
-## Exemples of Outputs
-### Portforlio for long positions only:
+## Examples of Outputs
+### Portfolio for long positions only:
 ![IC](assets/newplot2.png)
 ### Contributions of other factors:
 ![IC2](assets/newplot3.png)
