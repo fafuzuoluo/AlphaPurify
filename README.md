@@ -17,7 +17,7 @@
 
 ---
 
-## Installation
+##  Quick Start: You merely just need a Dataframe!
 
 ```bash
 pip install alphapurify
