@@ -29,7 +29,7 @@ pip install alphapurify
 
 ---
 
-## 2.Load your DataFrame
+### 2.Load your DataFrame
 | datetime           | symbol | open  | high  | low   | close | volume | factor |
 |--------------------|--------|------|------|------|------|--------|--------|
 | 2024-01-01 09:30   | AAPL   | 189.2 | 190.1 | 188.7 | 189.9 | 120034 | 0.42 |
@@ -41,9 +41,9 @@ pip install alphapurify
 
 ---
 
-## 3.Creating reports
+### 3.Creating reports
 ```bash
-
+# preprocess
 df = (
     AlphaPurifier(df, factor_col="alpha")
     .winsorize(method="mad")
@@ -51,9 +51,10 @@ df = (
     .to_result()
 )
 
+#backtest
 FA = FactorAnalyzer(base_df=df,
                     trade_date_col='datetime',
-                    symbol_col='code',
+                    symbol_col='synbol',
                     price_col='close',
                     factor_name='alpha_003')
 FA.run()
@@ -62,10 +63,11 @@ FA.create_long_short_return_sheet()
 FA.create_short_return_sheet()
 FA.create_single_fac_ic_sheet()
 
+#contributions of other factors
 Ex = Pure_Exposures(
     base_df=df,
     trade_date_col='datetime',
-    symbol_col='code',
+    symbol_col='symbol',
     price_col='close',
     factor_name='alpha_003',
     exposure_cols=['momentum_12_1', 'vol_60', 'beta_252'],
