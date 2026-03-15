@@ -5,7 +5,6 @@
 
 ![IC](assets/logo.jpg)
 
----
 
 ### AlphaPurify is comprised of 4 main modules:
 
