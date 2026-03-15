@@ -85,8 +85,9 @@ Ex.plot_correlations()
 ---
 
 ## Exemples of Outputs
-Portforlio for long positions:
+Portforlio for long positions only:
 ![IC](assets/newplot2.png)
+#contributions of other factors:
 ![IC2](assets/newplot3.png)
 ![IC2](assets/newplot4.png)
 ![IC2](assets/newplot5.png)
