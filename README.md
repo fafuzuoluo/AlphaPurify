@@ -21,6 +21,7 @@
 
 ```bash
 pip install alphapurify
+```
 
 ---
 
