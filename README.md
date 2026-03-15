@@ -131,3 +131,9 @@ Ex.plot_correlations()
 ![IC2](assets/newplot4.png)
 ![IC2](assets/newplot5.png)
 
+---
+
+## P.S.
+More detailed documentation and examples will be released soon.
+Suggestions and improvements are welcome. Feel free to open an issue, submit a pull request, or contact me via email.
+
