@@ -4,9 +4,7 @@
 
 ---
 
-<p align="center">
-  <img src="assets/logo.jpg" width="500"/>
-</p>
+![IC](assets/logo.jpg)
 
 ---
 
