@@ -17,7 +17,7 @@
 
 ---
 
-## wHY AlphapPurify?
+## Why AlphaPurify?
 
 ---
 
