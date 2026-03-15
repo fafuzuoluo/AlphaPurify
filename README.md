@@ -1,6 +1,8 @@
 [![Python version](https://img.shields.io/badge/python-3.10+-blue.svg?style=flat)](https://pypi.python.org/pypi/quantstats)
 [![PyPi version](https://img.shields.io/pypi/v/alphapurify.svg?maxAge=60)](https://pypi.python.org/pypi/alphapurify)
 [![PyPi status](https://img.shields.io/pypi/status/alphapurify.svg?maxAge=60)](https://pypi.python.org/pypi/alphapurify)
+[![License](https://img.shields.io/pypi/l/alphapurify)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/alphapurify/#files)
 
 # AlphaPurify: Factor analytics for quants
 
