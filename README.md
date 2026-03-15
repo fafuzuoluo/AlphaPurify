@@ -41,7 +41,6 @@ pip install alphapurify
 
 ---
 
-## Quick Start: You merely just need a Dataframe!
 
 ## 📊 Example Workflow
 
