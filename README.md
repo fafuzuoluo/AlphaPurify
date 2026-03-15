@@ -17,11 +17,15 @@
 
 ---
 
-##  Quick Start: You merely just need a Dataframe!
+##  Quick Start
+
+### Install with pip
+Users can easily install ``AlphaPurify`` by pip according to the following command.
 
 ```bash
 pip install alphapurify
 ```
+**Note**: pip will install the latest stable ``AlphaPurify``. However, the main branch of qlib is in active development. If you want to test the latest scripts or functions in the main branch. Please install ``AlphaPurify`` with clone.
 
 ---
 
