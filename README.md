@@ -102,7 +102,7 @@ Ex.plot_correlations()
 
 ## Why AlphaPurify?
 
-Compared with traditional factor research tools, **You merely just need a Dataframe**.
+**For whole pipeline backtesting of your factors, you merely just need a Dataframe**.
 
 **• Optimized for single-machine research**
  
