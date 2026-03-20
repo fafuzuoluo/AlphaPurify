@@ -33,10 +33,10 @@
 | Long / Short / Long-Short Rebalancing Quantile Backtest | ✅ Native | ⚠️ Indirect | ⚠️ Indirect | ❌ No | ❌ No | ❌ No |
 | Factor Return Attribution | ✅ Native | ⚠️ Indirect | ❌ No | ❌ No | ❌ No | ❌ No |
 | Multi-Frequency Support | ✅ Any (min → daily) | ⚠️ Mostly daily | ⚠️ Mostly daily | ⚠️ Mostly daily | ❌ No | ❌ No |
-| Setup Complexity | ⭐ Very Low | 🔴 High | 🟡 Medium | 🟢 Low | 🟢 Low | 🟡 Medium |
+| Setup Complexity | 🟢 Low | 🔴 High | 🟡 Medium | 🟢 Low | 🟢 Low | 🟢 Low |
 | Data Backend Support | ✅ Parquet + DuckDB | ⚠️ Custom infra | ❌ None | ❌ None | ❌ None | ❌ None |
 
-AlphaPurify goes beyond libraries like QuantStats and Pyfolio, which primarily focus on analyzing return curves and portfolio performance. Instead of only evaluating results, AlphaPurify operates at the **factor research level**, covering the full pipeline from preprocessing and IC analysis to portfolio construction and return attribution.
+AlphaPurify goes beyond libraries like QuantStats and Pyfolio, which primarily focus on analyzing return curves and portfolio performance. Instead of only evaluating results, AlphaPurify operates at the **factor research level**, covering the full pipeline from preprocessing and IC analysis to factor-driven backtest and return attribution.
 
 Compared to tools like Qlib and Backtrader, AlphaPurify is designed for **lightweight, single-machine research**, eliminating heavy infrastructure and complex setup. Its **one-DataFrame workflow** enables users to move from raw factor data to backtest results seamlessly.
 
