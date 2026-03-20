@@ -45,6 +45,8 @@ pip install alphapurify
 | 2024-01-01 09:31   | MSFT  | 378.9 | 90122  | -0.12 | -0.04 | 0.19 | 0.96 |
 | 2024-01-01 09:32   | MSFT  | 379.1 | 95433  | -0.08 | -0.03 | 0.20 | 0.97 |
 
+**p.s. Your DataFrame must include a time column, an asset identifier column, a price column, and your factor column to ensure proper usage.**
+
 ---
 
 ### 3.Creating reports
@@ -102,7 +104,7 @@ Ex.plot_correlations()
 
 ## Why AlphaPurify?
 
-**For whole pipeline backtesting of your factors, you merely just need a Dataframe**.
+For whole pipeline backtesting of your factors,**you merely just need a Dataframe!**
 
 **• Optimized for single-machine research**
  
