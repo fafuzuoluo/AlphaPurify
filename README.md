@@ -90,7 +90,7 @@ Ex.plot_correlations()
 
 ---
 
-## Examples of Outputs
+## Examples of Backtesting
 ### Portfolio for long positions only:
 ![IC](assets/newplot2.png)
 ### Contributions of other factors:
