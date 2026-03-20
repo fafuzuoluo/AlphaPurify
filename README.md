@@ -32,7 +32,7 @@
 | IC Analysis | ✅ Native | ✅ Yes | ❌ No | ✅Yes | ❌ No | ❌ No |
 | Long / Short / Long-Short Rebalancing Quantile Backtest | ✅ Native | ⚠️ Indirect | ⚠️ Indirect | ❌ No | ❌ No | ❌ No |
 | Factor Return Attribution | ✅ Native | ⚠️ Indirect | ❌ No | ❌ No | ❌ No | ❌ No |
-| Multi-Frequency Support | ✅ Any (min → daily) | ⚠️ Mostly daily | ⚠️ Mostly daily | ⚠️ Mostly daily | ❌ No | ❌ No |
+| Multi-Frequency Support | ✅ Any (microsecond → yearly) | ⚠️ Limited | ⚠️ Mostly daily | ⚠️ Mostly daily | ❌ No | ❌ No |
 | Setup Complexity | 🟢 Low | 🔴 High | 🟡 Medium | 🟢 Low | 🟢 Low | 🟢 Low |
 | Data Backend Support | ✅ Parquet + DuckDB | ⚠️ Custom infra | ❌ None | ❌ None | ❌ None | ❌ None |
 
