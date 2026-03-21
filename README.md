@@ -18,8 +18,9 @@
 </p>
 
 <p align="center">
-  中文 README 👉 <a href="README_CN.md">README_CN.md</a>
+  中文 README：<a href="README_CN.md">README_CN.md</a>
 </p>
+
 # AlphaPurify: Factor research for quants
 
 **AlphaPurify** Python library for factor construction, preprocessing, backtesting, and factor return attributions to help quants rapidly validate ideas.
