@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/pypi/l/alphapurify)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/alphapurify/#files)
 
-# AlphaPurify：面向量化研究院因子分析库
+# AlphaPurify：面向量化研究员的因子分析库
 
 **AlphaPurify** 库用于因子构建、因子预处理、因子回测和因子收益率归因，帮助量化研究员快速验证想法。
 
