@@ -14,7 +14,7 @@
 
 ---
 
-## AlphaPurify is comprised of 4 main modules:
+## 4 Main Modules:
 
  ✅1.**`alphapurify.FactorAnalyzer`** — for IC/ Rank IC testing and Long/ Short/ Long-Short quantile backtests.
 
@@ -76,7 +76,7 @@ pip install alphapurify
 
 ### 3.Creating backtesting reports
 ```bash
-from alphapurify import AlphaPurifier, FactorAnalyzer, 
+from alphapurify import AlphaPurifier, FactorAnalyzer
 
 # preprocess
 df = (
