@@ -31,7 +31,7 @@
 
   1.**`alphapurify.FactorAnalyzer`** — 用于IC/ Rank IC测试和多头，空头，多空分层测试。
 
-  2.**`alphapurify.AlphaPurifier`** — 用于因子预处理，包括40+的去极值、中和和和标准化方法(e.g.，ridge回归，lasso回归，PCA分解，etc.).
+  2.**`alphapurify.AlphaPurifier`** — 用于因子预处理，包括40+的去极值、中性化和标准化方法(e.g.，ridge回归，lasso回归，PCA分解，etc.).
 
   3.**`alphapurify.Database`** — 用于金融数据聚合、因子构建和因子入库。
 
