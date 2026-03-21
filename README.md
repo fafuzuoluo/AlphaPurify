@@ -22,7 +22,7 @@
 
   3.**`alphapurify.Database`** — for financial data aggregation, factor construction, and factor storage.
 
-  4.  **`alphapurify.Exposures`** — for factor correlation analysis and factor-based return attribution.
+  4.**`alphapurify.Exposures`** — for factor correlation analysis and factor-based return attribution.
 
 ---
 
