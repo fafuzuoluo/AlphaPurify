@@ -47,7 +47,9 @@
 
 - 40+ Preprocessing Methods — Built-in professional factor cleaning tools supporting workflows from ultra high-frequency to low-frequency data.
 
-- Flexible Horizons — Supports unlimited rebalance periods and IC lookback windows simultaneously for richer multi-dimensional factor analysis.
+- Flexible Horizons — Supports unlimited rebalance periods and IC lookback windows simultaneously for rich multi-dimensional factor analysis.
+
+---
 
 ## AlphaPurify vs Other Quant Libraries
 
