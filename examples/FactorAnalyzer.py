@@ -145,7 +145,7 @@
 # 3.Run backtesting and create reports
 # ============================================================
 #
-# FactorAnalyzer.run(staticPlot:bool=False, return_fig:bool=False)
+# FactorAnalyzer.run()
 # FactorAnalyzer.create_long_return_sheet(staticPlot:bool=False, return_fig:bool=False)
 # FactorAnalyzer.create_long_short_return_sheet(staticPlot:bool=False, return_fig:bool=False)
 # FactorAnalyzer.create_short_return_sheet(staticPlot:bool=False, return_fig:bool=False)
