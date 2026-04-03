@@ -40,7 +40,7 @@
 ---
 
 ## 完整Pipeline
-### 完整文档及示例: **[English Examples](./examples)**
+### 完整文档及示例: **[English docs](./examples)**
 
 ---
 
