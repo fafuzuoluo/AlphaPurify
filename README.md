@@ -40,6 +40,16 @@
 ---
 
 ## Pipeline Overview
+```mermaid
+flowchart LR
+    A((Database))
+    B((Factor Construction))
+    C((AlphaPurifier Cleaning))
+    D((FactorAnalyzer Backtest))
+    E((Exposures))
+    F((Confirmation))
+
+    A --> B --> C --> D --> E --> F --> A
 ### Step-by-step Examples: **[English Examples](./examples)**
 
 ---
