@@ -41,6 +41,8 @@
 
 ## Pipeline Overview
 
+---
+
 ```mermaid
 flowchart LR
     A((Database))
@@ -51,6 +53,8 @@ flowchart LR
     F((Confirmation))
 
     A --> B --> C --> D --> E --> F --> A
+
+---
 
 ### Step-by-step Examples: **[English Examples](./examples)**
 
