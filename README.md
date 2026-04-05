@@ -39,7 +39,10 @@
 
 ---
 
+```markdown
 ## Pipeline Overview
+
+> Iterative Factor Research Pipeline
 
 ```mermaid
 flowchart LR
@@ -51,6 +54,8 @@ flowchart LR
     F((Signal Confirmation))
 
     A --> B --> C --> D --> E --> F --> A
+
+---
 
 ### Step-by-step Examples: **[English Examples](./examples)**
 
