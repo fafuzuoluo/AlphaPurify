@@ -63,10 +63,10 @@
 
 | Feature / Library | AlphaPurify | Qlib | Backtrader | Alphalens | QuantStats | Pyfolio |
 |:------------------|:------------|:--------|:------------|:------------|:-------------|:-------------|
-| Computation Speed | 🚀 Very Fast (vectorized + multiprocessing) | ❌ Slow (heavy infrastructure) | ⚠️ Medium | ✅ Fast | no backtest | no backtest |
+| Computation Speed | 🚀 Very Fast (Rust vectorized + multiprocessing) | ❌ Slow (heavy infrastructure) | ⚠️ Medium | ✅ Fast | no backtest | no backtest |
 | Factor Preprocessing (40+) | ✅ Built-in | ⚠️ Limited | ❌ No | ❌ No | ❌ No | ❌ No |
 | IC Analysis | ✅ Native | ✅ Yes | ❌ No | ✅Yes | ❌ No | ❌ No |
-| Long / Short / Long-Short Rebalancing Quantile Backtest | ✅ Native | ⚠️ Indirect | ⚠️ Indirect | ❌ No | ❌ No | ❌ No |
+| Long / Short / Long-Short Rebalancing Quantile Backtest | ✅ Native | ✅ Yes | ⚠️ Indirect | ❌ No | ❌ No | ❌ No |
 | Factor Return Attribution | ✅ Native | ⚠️ Indirect | ❌ No | ❌ No | ❌ No | ❌ No |
 | Multi-Frequency Support | ✅ Any (microsecond → yearly) | ⚠️ Limited | ⚠️ Mostly daily | ⚠️ Mostly daily | ⚠️ Limited | ⚠️ Limited |
 | Setup Complexity | 🟢 Low | 🔴 High | 🟡 Medium | 🟢 Low | 🟢 Low | 🟢 Low |
