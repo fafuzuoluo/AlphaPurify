@@ -160,7 +160,7 @@ Ex.plot_correlations()
 
 ---
 
-**Elias Wu**
+**Elias Wu 吳一鳴**
 
 
 
